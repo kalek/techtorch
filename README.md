@@ -3,8 +3,11 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 ## Getting Started
 
 Please create .env.local file and add
+
+```bash
 NEON_DATABASE_URL=
 AUTH_SECRET=
+```
 
 First, run the development server:
 
